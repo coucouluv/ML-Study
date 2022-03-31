@@ -4,4 +4,6 @@
 강의
 + 모두를 위한 딥러닝 강좌 시즌1(Sung Kim)
 
-책
+
+자료
++ Machine Learning 강의노트(박수진)
