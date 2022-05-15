@@ -3,7 +3,7 @@
 tensorflow, python 사용
 # 참고자료
 강의
-+ 모두를 위한 딥러닝 강좌 시즌1(Sung Kim)
++ 모두를 위한 딥러닝 강좌 시즌2(Sung Kim)
 
 
 자료
